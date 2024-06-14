@@ -14,9 +14,8 @@
 
 
 
-Visit the [Hugging Face Space](https://huggingface.co/spaces/kerimbirtem/Car_price_predict) to access the model and interact with the predictions.
 
-Visit the [Hugging Face Space](https://huggingface.co/spaces/kerimbirtem/Car_price_predict) to access the model and **interact with the predictions**.
+**Visit the [Hugging Face Space](https://huggingface.co/spaces/kerimbirtem/Car_price_predict) to access the model and interact with the predictions**.
 
 
 
