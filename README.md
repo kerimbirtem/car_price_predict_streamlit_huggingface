@@ -12,6 +12,11 @@
 -Tahmin modeli, Linear Regression'a dayanmaktadır. Bu model, araçların kilometre, model yılı, marka ve diğer ilgili  özelliklerine dayanarak ikinci el araç fiyatlarını tahmin etmek için Cars veri seti ile eğitilmiştir.
 
 
+
+
 Visit the [Hugging Face Space](https://huggingface.co/spaces/kerimbirtem/Car_price_predict) to access the model and interact with the predictions.
 
-Modeli incelemek ve tahminlerle etkileşime geçmek için [Hugging Face Space](https://huggingface.co/spaces/kerimbirtem/Car_price_predict) adresini ziyaret edin.
+Visit the [Hugging Face Space](https://huggingface.co/spaces/kerimbirtem/Car_price_predict) to access the model and **interact with the predictions**.
+
+
+
